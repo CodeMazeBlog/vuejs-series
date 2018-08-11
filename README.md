@@ -1,2 +1,3 @@
-# vuejs-series
-## https://code-maze.com/vue-js-series/
+# vuejs-series 
+## Creating Vue.js project - Preparing Project and Project Overview
+## https://code-maze.com/creating-vuejs-project/
